@@ -1,2 +1,2 @@
-# HTB_StartPo
+# HTB_Start_Point
 HackTheBox_Starting Point
