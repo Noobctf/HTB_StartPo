@@ -1,2 +1,1 @@
-# HTB_Start_Point
-HackTheBox_Starting Point
+# The walkthroughs of Starting_Point machines in Hack the box
